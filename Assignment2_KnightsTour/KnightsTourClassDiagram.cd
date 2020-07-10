@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Assignment2_KnightsTour.Board">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAkAEEAAAlEABAIAIAgAAAAAAAAAAQAAAAEAAAAA=</HashCode>
+      <FileName>Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment2_KnightsTour.Calculation">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAEAAAEAAAAAAAAAAAAQAAAABAAAgAAAIAAAgAA=</HashCode>
+      <FileName>Calculation1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment2_KnightsTour.Form1">
+    <Position X="8" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>GAQQyAABACAEAJAABBCAAAALAACEAgCBQBQBAAAAgCA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment2_KnightsTour.Heuristic" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heuristic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment2_KnightsTour.Randomize">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Randomize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment2_KnightsTour.TextBoxWriter">
+    <Position X="5.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>TextBoxWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

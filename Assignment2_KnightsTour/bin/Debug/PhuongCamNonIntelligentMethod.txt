@@ -1,0 +1,6 @@
+Trial 1: The Knight was able to successfully touch 42 squares.
+Trial 2: The Knight was able to successfully touch 20 squares.
+Trial 3: The Knight was able to successfully touch 6 squares.
+Trial 4: The Knight was able to successfully touch 22 squares.
+Trial 5: The Knight was able to successfully touch 13 squares.
+

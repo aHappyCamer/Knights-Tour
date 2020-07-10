@@ -1,0 +1,10 @@
+C:\Users\camjo\Downloads\PROG32356\Assignment2_KnightsTour\Assignment2_KnightsTour\obj\Debug\Assignment2_KnightsTour.Form1.resources
+C:\Users\camjo\Downloads\PROG32356\Assignment2_KnightsTour\Assignment2_KnightsTour\obj\Debug\Assignment2_KnightsTour.Properties.Resources.resources
+C:\Users\camjo\Downloads\PROG32356\Assignment2_KnightsTour\Assignment2_KnightsTour\obj\Debug\Assignment2_KnightsTour.csproj.GenerateResource.cache
+C:\Users\camjo\Downloads\PROG32356\Assignment2_KnightsTour\Assignment2_KnightsTour\obj\Debug\Assignment2_KnightsTour.csproj.CoreCompileInputs.cache
+C:\Users\camjo\Downloads\PROG32356\Assignment2_KnightsTour\Assignment2_KnightsTour\bin\Debug\Assignment2_KnightsTour.exe.config
+C:\Users\camjo\Downloads\PROG32356\Assignment2_KnightsTour\Assignment2_KnightsTour\bin\Debug\Assignment2_KnightsTour.exe
+C:\Users\camjo\Downloads\PROG32356\Assignment2_KnightsTour\Assignment2_KnightsTour\bin\Debug\Assignment2_KnightsTour.pdb
+C:\Users\camjo\Downloads\PROG32356\Assignment2_KnightsTour\Assignment2_KnightsTour\obj\Debug\Assignment2_KnightsTour.exe
+C:\Users\camjo\Downloads\PROG32356\Assignment2_KnightsTour\Assignment2_KnightsTour\obj\Debug\Assignment2_KnightsTour.pdb
+C:\Users\camjo\Downloads\PROG32356\Assignment2_KnightsTour\Assignment2_KnightsTour\obj\Debug\Assignment2_KnightsTour.csprojAssemblyReference.cache
